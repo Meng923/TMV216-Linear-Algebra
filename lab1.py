@@ -106,6 +106,9 @@ else:  # våra hardkodade P, Q, R punkter ligger inte på samma linje
 
 
 
+
+
+
 # Del 2.2 __________________________________________________________________________
 # plotta upp trianglen med hörn i våra hardkodade punkter P, Q, R
 fig2 = plt.figure()

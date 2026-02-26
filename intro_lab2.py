@@ -51,7 +51,7 @@ plt.show()
 
 # ____Uppgift 2_________________________________________
 
-'''
+
 fig2 = plt.figure()
 ax2 = fig2.add_subplot(projection="3d")
 
@@ -84,7 +84,7 @@ ax2.plot3D(P2[: , 0], P2[: , 1], P2[: , 2], color="pink", linewidth=3)
 
 
 plt.show()
-'''
+
 
 
 # ____Uppgift 3_________________________________________
